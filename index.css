@@ -1,7 +1,5 @@
-button {
-    background-color: blue;
-    color: aliceblue;
-}
 body {
-    background: green;
+    background-size: cover;
+    background: url('img/screen.jpg');
+    background-position-y: -100px;
 }
